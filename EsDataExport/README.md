@@ -1,5 +1,8 @@
 #### 	多线程导出ES数据到csv(前端grid生成查询参数)
 
+
+![github](https://zeroboy.cn/clienttasklist.jpg "github")
+
 ```ruby
 异步导出思路：
 
@@ -15,6 +18,5 @@
 配置
   ES    三台集群(单台4核32G)
   硬盘  阿里云ssd(IO较差 IO在主要生成时间中占比最重)
-
 
 
